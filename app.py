@@ -1,4 +1,5 @@
 import requests
+import config
 
 # Set your API key and application ID
 api_id = 'a6ecdfa9'
