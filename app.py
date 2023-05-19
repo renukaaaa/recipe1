@@ -1,8 +1,8 @@
 import requests
 
 # Set your API key and application ID
-api_key = 'a6ecdfa9'
-app_id = '2bc312f48448207959f8b0d99f6487a6'
+api_id = 'a6ecdfa9'
+app_key = '2bc312f48448207959f8b0d99f6487a6'
 
 # Take user input for multiple ingredients
 ingredients = input('Enter ingredients (comma-separated): ')
